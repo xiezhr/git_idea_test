@@ -1,1 +1,1 @@
-# git_idea_test
+IntelliJ IDEA 连接GitHub测试
